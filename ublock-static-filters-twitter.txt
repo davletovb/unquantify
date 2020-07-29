@@ -16,3 +16,5 @@ twitter.com##.r-9qu9m4.r-ou255f.r-tzz3ar.r-18u37iz.r-5kkj8d.r-1efd50x.r-1gkumvb.
 
 ! 29/07/2020 https://twitter.com
 twitter.com##div.r-1w6e6rj.r-18u37iz.css-1dbjc4n:nth-of-type(4)
+twitter.com##div.css-1dbjc4n > .css-901oao.css-18t94o4.css-4rbku5.r-qvutc0.r-bcqeeo.r-ad9z0x.r-16dba41.r-a023e6.r-1qd0xha.r-1loqt21.r-jwli3a > .r-qvutc0.r-bcqeeo.r-ad9z0x.r-vw2c0b.r-1qd0xha.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-ad9z0x.r-1qd0xha.css-16my406.css-901oao
+twitter.com##.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > .r-1w6e6rj.r-18u37iz.css-1dbjc4n > div.css-1dbjc4n > .css-901oao.css-18t94o4.css-4rbku5.r-qvutc0.r-bcqeeo.r-ad9z0x.r-16dba41.r-a023e6.r-1qd0xha.r-1loqt21.r-jwli3a > .r-qvutc0.r-bcqeeo.r-ad9z0x.r-1qd0xha.r-111h2gw.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-ad9z0x.r-1qd0xha.css-16my406.css-901oao
